@@ -27,6 +27,9 @@ document.querySelector('.check').addEventListener('click', function () {
   else if(guess === secretNumber){
       document.querySelector('.message').textContent = '🎉 Correct Number';
       document.querySelector('.number').textContent = secretNumber;
+      //manipulating css by .style
+      document.querySelector('body').style.backgroundColor = '#60b347';
+      document.querySelector('.number').style.width = '30rem';
   }
   // when guess is too high
   else if(guess > secretNumber){
@@ -52,4 +55,11 @@ document.querySelector('.check').addEventListener('click', function () {
             document.querySelector('.score').textContent = 0;
       }     
   }
+});
+
+
+document.querySelector('.again').addEventListener('click', function () {
+      document.querySelector('body').style.backgroundColor = '#222';
+      document.querySelector('.number').style.width = '15rem';
+      document.querySelector('.number').textContent = '?';
 });
