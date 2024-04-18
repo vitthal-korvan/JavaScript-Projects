@@ -5,7 +5,11 @@ Behind the scenes, the game utilizes HTML for structuring the layout and user in
 
 The game employs event listeners to detect user interactions such as submitting a guess and dynamically updating the interface to reflect the current state of the game. Additionally, it incorporates conditional statements and loops to control the flow of the game and ensure a smooth and engaging user experience.</p>
 
-<a href="https://guess-the-number-javascript-project.netlify.app/"/>
+## ⚙️ What did I learn by making this project?
 
-<h2>Live Project Link:</h2>
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />]([https://build-tomorrow-webpage.netlify.app/](https://guess-the-number-javascript-project.netlify.app/))
+-   Vanilla JavaScript
+-   DOM Architechture and DOM Manipulation 
+
+
+## ▶️ Live Project Link:
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://guess-the-number-javascript-project.netlify.app/)
