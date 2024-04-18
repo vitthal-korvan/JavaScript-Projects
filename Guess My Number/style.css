@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -119,11 +121,28 @@ h1 {
   margin-bottom: 2rem;
 }
 
-footer{
+footer {
+  font-family: "Poppins", sans-serif;
   position: relative;
   bottom: 6rem;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
-h2{
+h2 {
+  width: fit-content;
+  padding: 1vw;
+  background-color: #000;
   font-size: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 38.5%;
+  }
+  
+  
+  
+  
 }
