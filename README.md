@@ -20,3 +20,13 @@ Players can choose to keep rolling to amass more points or pass to secure their 
 
 ## ▶️ Live Project Link:
 [<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://dice-pig-game-js.netlify.app/)
+
+
+<hr>
+<h2>3. Leads Tracker (Chrome Extension)</h2>
+<p>" The Leads tracker is an Chrome Extension that I created by Using DOM and LocalStorage Concepts and It is used for saving the URL's In the Chrome"</p>
+
+  
+<hr>
+<h2>4. People Counter</h2>
+<p>"A mini DOM project that works as a counter of the people"</p>
