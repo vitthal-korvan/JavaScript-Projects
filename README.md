@@ -1,4 +1,4 @@
-<h1>JavaScript Games:</h1>
+<h1>JavaScript Mini Projects:</h1>
 
 ⚙️ What did I learn by making this project?
 - Vanilla JavaScript
